@@ -1,174 +1,162 @@
 {
-"about":"H & M Hennes & Mauritz AB (cunoscuta ca H & M) este un lan? de magazine de îmbracaminte din Suedia. Compania a fost înfiin?ata în 1947, în Västerås, Suedia. În iulie 2010, H&M avea aproximativ 76.000 de angaja?i, care lucrau în circa 2.000 de magazine din 37 de ?ari, fiind al treilea mare retailer de îmbracaminte la nivel mondial, dupa grupul american Gap ?i Inditex din Spania. Cea mai mare pia?a este Germania, urmata de Marea Britanie ?i Suedia.\\n\\tÎn iunie 2007, compania avea 1.420 de magazine, comparativ cu 1.244 unita?i în iunie 2006.",
+"about":"H & M Hennes & Mauritz AB (cunoscuta ca H & M) este un lan? de magazine de Ã®mbracaminte din Suedia. Compania a fost Ã®nfiin?ata Ã®n 1947, Ã®n VÃ¤sterÃ¥s, Suedia. ÃŽn iulie 2010, H&M avea aproximativ 76.000 de angaja?i, care lucrau Ã®n circa 2.000 de magazine din 37 de ?ari, fiind al treilea mare retailer de Ã®mbracaminte la nivel mondial, dupa grupul american Gap ?i Inditex din Spania. Cea mai mare pia?a este Germania, urmata de Marea Britanie ?i Suedia.\\n\\tÃŽn iunie 2007, compania avea 1.420 de magazine, comparativ cu 1.244 unita?i Ã®n iunie 2006.",
 
 "Produse":[
 {
+	"verificare":"F",
 	"ID":"Descriere01",
-	"JPG":"hmprod01.jpg",
+	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod01.jpg",
 	"nume":"Bluza drapata",
 	"pret":79.90,
-	"descriere":"Bluza din jerseu moale din viscoza, cu guler înalt u?or drapat, cu deschizatura la spate, cu nasturi îmbraca?i în spatele gâtului.",
-	"Detalii":[
-	{
+	"descriere":"Bluza din jerseu moale din viscoza, cu guler Ã®nalt u?or drapat, cu deschizatura la spate, cu nasturi Ã®mbraca?i Ã®n spatele gÃ¢tului.",
+
 		"compozitie":"viscoza 100%",
-		"instructiuni de întretinere":"Spalare la masina la 30°",
+		"instructiuni":"Spalare la masina la 30Â°",
 		"numar_articol":"0461815001"
-	}
-	]
+
 },
 {
+	"verificare":"F",
 	"ID":"Descriere02",
-	"JPG":"hmprod02.jpg",
+	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod02.jpg",
 	"nume":"Pulover supradimensionat",
 	"pret":89.90,
-	"descriere":"Pulover supradimensionat, tricotat cu ochiuri marunte din fir moale, cu lâna în compozi?ie, cu umerii cazu?i, cu bordura reiata la rascroiala gâtului, la man?ete ?i la baza. U?or mai lung la spate.",
-	"Detalii":[
-	{
-		"compozitie":"fibra acrilica 52%; poliamida 30%; poliester 11%; elastan 5%; lâna 2%",
-		"instructiuni de întretinere":"Spalare la masina la 30°",
+	"descriere":"Pulover supradimensionat, tricotat cu ochiuri marunte din fir moale, cu lÃ¢na Ã®n compozi?ie, cu umerii cazu?i, cu bordura reiata la rascroiala gÃ¢tului, la man?ete ?i la baza. U?or mai lung la spate.",
+
+		"compozitie":"fibra acrilica 52%; poliamida 30%; poliester 11%; elastan 5%; lÃ¢na 2%",
+		"instructiuni":"Spalare la masina la 30Â°",
 		"numar_articol":"0448193002"
-	}
-	]
+
 },	
 {
+	"verificare":"F",
 	"ID":"Descriere03",
-	"JPG":"hmprod03.jpg",
+	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod03.jpg",
 	"nume":"Pulover cu umerii goi",
 	"pret":49.90,
-	"descriere":"Pulover cu umerii goi, tricotat cu ochiuri marunte, din amestec de viscoza, în forma de T la spate, cu guler ridicat.",
-	"Detalii":[
-	{
+	"descriere":"Pulover cu umerii goi, tricotat cu ochiuri marunte, din amestec de viscoza, Ã®n forma de T la spate, cu guler ridicat.",
+
 		"compozitie":"poliester 57%; viscoza 39%; elastan 4%",
-		"instructiuni de întretinere":"Spalare la masina la 40°",
+		"instructiuni":"Spalare la masina la 40Â°",
 		"numar_articol":"0423107003"
-	}
-	]
+
 },	
 {
+	"verificare":"F",
 	"ID":"Descriere04",
-	"JPG":"hmprod04.jpg",
+	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod04.jpg",
 	"nume":"Pulover cu motiv",
 	"pret":62.90,
 	"descriere":"Pulover tricotat din fir moale, cu bordura reiata la man?ete ?i la baza.",
-	"Detalii":[
-	{
+
 		"compozitie":"Detaliu: poliester 100%; fibra acrilica 100%",
-		"instructiuni de întretinere":"Spalare la masina la 40°",
+		"instructiuni":"Spalare la masina la 40Â°",
 		"numar_articol":"0419507003"
-	}
-	]
+
 },	
 {
+	"verificare":"F",
 	"ID":"Descriere05",
-	"JPG":"hmprod05.jpg",
+	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod05.jpg",
 	"nume":"Cizme calduroase",
 	"pret":129.00,
-	"descriere":"Cizme din imita?ie de piele întoarsa, cu captu?eala din blana artificiala, cu marginea de sus rasfrânta ?i cu închizatori cu benzi elastice ?i cu nasturi lungi într-o parte. Talpa din cauciuc.",
-	"Detalii":[
-	{
-		"compozitie":"Fata: poliester 100%;Talpa exterioara: Etilena-acetat de vinil 100%; Imitatie De Blana: poliester 100%; elastan 5%; lâna 2%",
-		"instructiuni de întretinere":"Spalare la masina la 30°",
+	"descriere":"Cizme din imita?ie de piele Ã®ntoarsa, cu captu?eala din blana artificiala, cu marginea de sus rasfrÃ¢nta ?i cu Ã®nchizatori cu benzi elastice ?i cu nasturi lungi Ã®ntr-o parte. Talpa din cauciuc.",
+
+		"compozitie":"Fata: poliester 100%;Talpa exterioara: Etilena-acetat de vinil 100%; Imitatie De Blana: poliester 100%; elastan 5%; lÃ¢na 2%",
+		"instructiuni":"Spalare la masina la 30Â°",
 		"numar_articol":"0440646001"
-	}
-	]
+
 },	
 {
+	"verificare":"F",
 	"ID":"Descriere06",
-	"JPG":"hmprod06.jpg",
+	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod06.jpg",
 	"nume":"Botine",
 	"pret":199.00,
-	"descriere":"Botine cu deschizaturi pe laterale ?i cu doua barete decorative cu catarame din metal, cu gaica la spate, cu captu?eala din blana artificiala, cu bran?uri din imita?ie de piele ?i cu talpa groasa din cauciuc. Înal?imea tocului: 3,5 cm.",
-	"Detalii":[
-	{
+	"descriere":"Botine cu deschizaturi pe laterale ?i cu doua barete decorative cu catarame din metal, cu gaica la spate, cu captu?eala din blana artificiala, cu bran?uri din imita?ie de piele ?i cu talpa groasa din cauciuc. ÃŽnal?imea tocului: 3,5 cm.",
+
 		"compozitie":"Talpa exterioara: cauciuc termoplastic 100%; Captuseala si brant: imitatie Blana 100%; Fata: imitatie De Piele 100%",
-		"instructiuni de întretinere":"Spalare la masina la 30°",
+		"instructiuni":"Spalare la masina la 30Â°",
 		"numar_articol":"0436764003"
-	}
-	]
+
 },	
 {
+	"verificare":"F",
 	"ID":"Descriere07",
-	"JPG":"hmprod07.jpg",
+	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod07.jpg",
 	"nume":"Ghete de motociclist",
 	"pret":139.00,
-	"descriere":"Ghete de motociclist, din imita?ie de piele, cu barete reglabile cu catarame din metal. Captu?eala ?i bran?uri din material textil, talpa din cauciuc. Înal?imea tocului: aproximativ 3 cm.",
-	"Detalii":[
-	{
+	"descriere":"Ghete de motociclist, din imita?ie de piele, cu barete reglabile cu catarame din metal. Captu?eala ?i bran?uri din material textil, talpa din cauciuc. ÃŽnal?imea tocului: aproximativ 3 cm.",
+
 		"compozitie":"Talpa exterioara: cauciuc termoplastic 100%; Captuseala si brant: poliester 80%; bumbac 20%; Fata: imitatie De Piele 100%",
-		"instructiuni de întretinere":"Spalare la masina la 30°",
+		"instructiuni":"Spalare la masina la 30Â°",
 		"numar_articol":"0423704001"
-	}
-	]
+
 },
 {
+	"verificare":"F",
 	"ID":"Descriere08",
-	"JPG":"hmprod08.jpg",
+	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod08.jpg",
 	"nume":"Cizme cu blana artificiala",
 	"pret":159.00,
-	"descriere":"Cizme din imita?ie de piele întoarsa, cu talpa ortopedica joasa, cu captu?eala moale din blana artificiala, cu bran?uri din imita?ie de piele ?i cu talpa din cauciuc. Platforma mica în fa?a: 2,5 cm. Înal?imea tocului: 4,5 cm.",
-	"Detalii":[
-	{
+	"descriere":"Cizme din imita?ie de piele Ã®ntoarsa, cu talpa ortopedica joasa, cu captu?eala moale din blana artificiala, cu bran?uri din imita?ie de piele ?i cu talpa din cauciuc. Platforma mica Ã®n fa?a: 2,5 cm. ÃŽnal?imea tocului: 4,5 cm.",
+
 		"compozitie":"Fata: poliester 100%; Talpa exterioara: cauciuc termoplastic 100%; Captuseala si brant: imitatie Blana 100%",
-		"instructiuni de întretinere":"Spalare la masina la 40°",
+		"instructiuni":"Spalare la masina la 40Â°",
 		"numar_articol":"0440400001"
-	}
-	]
+
 },
 {
+	"verificare":"F",
 	"ID":"Descriere09",
-	"JPG":"hmprod09.jpg",
+	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod09.jpg",
 	"nume":"Super Skinny Low Jeans",
 	"pret":89.90,
-	"descriere":"Jeans cu cinci buzunare, din denim superelastic prespalat. Model cu talie joasa, foarte strâns pe picioare.",
-	"Detalii":[
-	{
+	"descriere":"Jeans cu cinci buzunare, din denim superelastic prespalat. Model cu talie joasa, foarte strÃ¢ns pe picioare.",
+
 		"compozitie":"bumbac 70%; poliester 28%; elastan 2%",
-		"instructiuni de întretinere":"Spalare la masina la 40°",
+		"instructiuni":"Spalare la masina la 40Â°",
 		"numar_articol":"0399087009"
-	}
-	]
+
 },
 {
+	"verificare":"F",
 	"ID":"Descriere010",
-	"JPG":"hmprod010.jpg",
+	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod010.jpg",
 	"nume":"Super Skinny Low Jeans",
 	"pret":89.90,
-	"descriere":"Jeans cu cinci buzunare, din denim superelastic prespalat. Model cu talie joasa, foarte strâns pe picioare.",
-	"Detalii":[
-	{
+	"descriere":"Jeans cu cinci buzunare, din denim superelastic prespalat. Model cu talie joasa, foarte strÃ¢ns pe picioare.",
+
 		"compozitie":"bumbac 70%; poliester 28%; elastan 2%",
-		"instructiuni de întretinere":"Spalare la masina la 40°",
+		"instructiuni":"Spalare la masina la 40Â°",
 		"numar_articol":"0399087005"
-	}
-	]
+
 },
 {
+	"verificare":"F",
 	"ID":"Descriere011",
-	"JPG":"hmprod011.jpg",
+	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod011.jpg",
 	"nume":"Jeans Super Skinny Low",
 	"pret":89.90,
-	"descriere":"Jeans cu talie joasa, cu cinci buzunare, din denim superelastic prespalat. Model foarte strâmt pe picioare. Confectionati partial din poliester reciclat.",
-	"Detalii":[
-	{
+	"descriere":"Jeans cu talie joasa, cu cinci buzunare, din denim superelastic prespalat. Model foarte strÃ¢mt pe picioare. Confectionati partial din poliester reciclat.",
+
 		"compozitie":"bumbac 70%; poliester 28%; elastan 2%",
-		"instructiuni de întretinere":"Spalare la masina la 40°",
+		"instructiuni":"Spalare la masina la 40Â°",
 		"numar_articol":"0300117004"
-	}
-	]
+
 },
 {
+	"verificare":"F",
 	"ID":"Descriere012",
-	"JPG":"hmprod012.jpg",
+	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod012.jpg",
 	"nume":"Pantaloni superelastici",
 	"pret":90.00,
-	"descriere":"Pantaloni cu cinci buzunare, din twill superelastic cu aspect de denim. Model cu talie normala, cu detalii cu aspect foarte uzat ?i strâmt pe picioare.",
-	"Detalii":[
-	{
+	"descriere":"Pantaloni cu cinci buzunare, din twill superelastic cu aspect de denim. Model cu talie normala, cu detalii cu aspect foarte uzat ?i strÃ¢mt pe picioare.",
+
 		"compozitie":"bumbac 79%; poliester 19%; elastan 2%",
-		"instructiuni de întretinere":"Spalare la masina la 40°",
+		"instructiuni":"Spalare la masina la 40Â°",
 		"numar_articol":"0323203002"
-	}
-	]
+
 },
 
 
@@ -185,156 +173,145 @@
 
 
 {
+	"verificare":"B",
 	"ID":"Descriere12",
-	"JPG":"hmprod12.jpg",
+	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod12.jpg",
 	"nume":"Bluza din molton",
 	"pret":39.90,
-	"descriere":"Bluza din molton sub?ire din amestec de bumbac, cu mâneci lungi, cu bordura reiata la rascroiala gâtului, la man?ete ?i la baza. U?or flau?ata la interior.",
-	"Detalii":[
-	{
+	"descriere":"Bluza din molton sub?ire din amestec de bumbac, cu mÃ¢neci lungi, cu bordura reiata la rascroiala gÃ¢tului, la man?ete ?i la baza. U?or flau?ata la interior.",
+
 		"compozitie":"bumbac 60%; poliester 40%",
-		"instructiuni de întretinere":"Spalare la masina la 30°",
+		"instructiuni":"Spalare la masina la 30Â°",
 		"numar_articol":"0447692002"
-	}
-	]
+
 },
 {
+	"verificare":"B",
 	"ID":"Descriere13",
-	"JPG":"hmprod13.jpg",
+	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod13.jpg",
 	"nume":"Hanorac",
 	"pret":129.00,
-	"descriere":"Hanorac din molton, cu gluga, cu mâneci lungi, cu buzunar tip marsupiu ?i cu bordura reiata la man?ete ?i la baza.",
-	"Detalii":[
-	{
+	"descriere":"Hanorac din molton, cu gluga, cu mÃ¢neci lungi, cu buzunar tip marsupiu ?i cu bordura reiata la man?ete ?i la baza.",
+
 		"compozitie":"bumbac 70%; poliester 30%",
-		"instructiuni de întretinere":"Spalare la masina la 40°",
+		"instructiuni":"Spalare la masina la 40Â°",
 		"numar_articol":"0438952003"
-	}
-	]
+
 },{
+	"verificare":"B",
 	"ID":"Descriere14",
-	"JPG":"hmprod14.jpg",
+	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod14.jpg",
 	"nume":"Bluza din molton tip neopren",
 	"pret":99.00,
-	"descriere":"Bluza din material tip neopren, cu mâneci raglan lungi ?i bordura reiata la man?ete ?i la baza. U?or flau?ata la interior.",
-	"Detalii":[
-	{
+	"descriere":"Bluza din material tip neopren, cu mÃ¢neci raglan lungi ?i bordura reiata la man?ete ?i la baza. U?or flau?ata la interior.",
+
 		"compozitie":"bumbac 50%; poliester 50%",
-		"instructiuni de întretinere":"Spalare la masina la 30°",
+		"instructiuni":"Spalare la masina la 30Â°",
 		"numar_articol":"0456221002"
-	}
-	]
+
 },{
+	"verificare":"B",
 	"ID":"Descriere15",
-	"JPG":"hmprod15.jpg",
+	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod15.jpg",
 	"nume":"Pantofi sport",
 	"pret":139.00,
-	"descriere":"Pantofi sport din imita?ie de piele, cu sec?iuni matlasate decorative pe laterale ?i pe limba, cu marginea u?or vatuita ?i cu ?ireturi în fa?a. Captu?eala ?i bran?uri din plasa ?i talpa din cauciuc.",
-	"Detalii":[
-	{
+	"descriere":"Pantofi sport din imita?ie de piele, cu sec?iuni matlasate decorative pe laterale ?i pe limba, cu marginea u?or vatuita ?i cu ?ireturi Ã®n fa?a. Captu?eala ?i bran?uri din plasa ?i talpa din cauciuc.",
+
 		"compozitie":"Talpa exterioara: cauciuc 100%; Captuseala si brant: poliester 100%; Fata: imitatie De Piele 100%",
-		"instructiuni de întretinere":"Spalare la masina la 30°",
+		"instructiuni":"Spalare la masina la 30Â°",
 		"numar_articol":"0459203004"
-	}
-	]
+
 },
 {
+	"verificare":"B",
 	"ID":"Descriere16",
-	"JPG":"hmprod16.jpg",
+	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod16.jpg",
 	"nume":"Pantofi sport",
 	"pret":99.00,
-	"descriere":"Pantofi sport din imita?ie de piele, cu ?ireturi în fa?a, cu gaica la spate, cu captu?eala ?i bran?uri din pânza de bumbac ?i cu talpa din cauciuc.",
-	"Detalii":[
-	{
+	"descriere":"Pantofi sport din imita?ie de piele, cu ?ireturi Ã®n fa?a, cu gaica la spate, cu captu?eala ?i bran?uri din pÃ¢nza de bumbac ?i cu talpa din cauciuc.",
+
 		"compozitie":"Talpa exterioara: cauciuc 100%; Fata: imitatie De Piele 100%; Captuseala: bumbac 100%",
-		"instructiuni de întretinere":"Spalare la masina la 30°",
+		"instructiuni":"Spalare la masina la 30Â°",
 		"numar_articol":"0447785001"
-	}
-	]
+
 },
 {
+	"verificare":"B",
 	"ID":"Descriere17",
-	"JPG":"hmprod17.jpg",
-	"nume":"Pantofi sport înal?i",
+	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod17.jpg",
+	"nume":"Pantofi sport Ã®nal?i",
 	"pret":159.00,
-	"descriere":"Pantofi sport înal?i, din imita?ie de piele cu sec?iuni matlasate, cu marginea ?i limba u?or vatuite, cu ?ireturi în fa?a, cu captu?eala ?i bran?uri din plasa ?i cu talpa din cauciuc.",
-	"Detalii":[
-	{
+	"descriere":"Pantofi sport Ã®nal?i, din imita?ie de piele cu sec?iuni matlasate, cu marginea ?i limba u?or vatuite, cu ?ireturi Ã®n fa?a, cu captu?eala ?i bran?uri din plasa ?i cu talpa din cauciuc.",
+
 		"compozitie":"Talpa exterioara: cauciuc termoplastic 100%; Captuseala si brant: poliester 100%; Fata: imitatie De Piele 100%",
-		"instructiuni de întretinere":"Spalare la masina la 30°",
+		"instructiuni":"Spalare la masina la 30Â°",
 		"numar_articol":"0418178001"
-	}
-	]
+
 },
 {
+	"verificare":"B",
 	"ID":"Descriere18",
-	"JPG":"hmprod18.jpg",
+	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod18.jpg",
 	"nume":"Pantofi sport",
 	"pret":159.00,
-	"descriere":"Pantofi sport cu carâmb pâna la glezna ?i cu marginea vatuita, cu ?ireturi în fa?a, cu captu?eala ?i bran?uri din plasa ?i cu talpa din cauciuc.",
-	"Detalii":[
-	{
+	"descriere":"Pantofi sport cu carÃ¢mb pÃ¢na la glezna ?i cu marginea vatuita, cu ?ireturi Ã®n fa?a, cu captu?eala ?i bran?uri din plasa ?i cu talpa din cauciuc.",
+
 		"compozitie":"Talpa exterioara: cauciuc termoplastic 100%; Captuseala si brant: poliester 100%; Fata: imitatie De Piele 100%",
-		"instructiuni de întretinere":"Spalare la masina la 30°",
+		"instructiuni":"Spalare la masina la 30Â°",
 		"numar_articol":"0418191003"
-	}
-	]
+
 },
 {
+	"verificare":"B",
 	"ID":"Descriere19",
-	"JPG":"hmprod19.jpg",
+	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod19.jpg",
 	"nume":"Pantaloni din twill Skinny fit",
 	"pret":89.90,
-	"descriere":"Pantaloni cu cinci buzunare, din twill u?or elastic, prespalat, cu talie normala, cu ?li? cu fermoar. Model cu croiala foarte strânsa.",
-	"Detalii":[
-	{
+	"descriere":"Pantaloni cu cinci buzunare, din twill u?or elastic, prespalat, cu talie normala, cu ?li? cu fermoar. Model cu croiala foarte strÃ¢nsa.",
+
 		"compozitie":"bumbac 98%; elastan 2%",
-		"instructiuni de întretinere":"Spalare la masina la 40°",
+		"instructiuni":"Spalare la masina la 40Â°",
 		"numar_articol":"0416157002"
-	}
-	]
+
 },
 {
+	"verificare":"B",
 	"ID":"Descriere110",
-	"JPG":"hmprod110.jpg",
+	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod110.jpg",
 	"nume":"Pantaloni chino Skinny fit",
 	"pret":99.00,
-	"descriere":"Pantaloni chino din twill prespalat din bumbac, cu talie normala, cu buzunare laterale, cu un buzunar pentru monede si cu buzunare cu refileti si nasture la spate. Croiala foarte strânsa.",
-	"Detalii":[
-	{
+	"descriere":"Pantaloni chino din twill prespalat din bumbac, cu talie normala, cu buzunare laterale, cu un buzunar pentru monede si cu buzunare cu refileti si nasture la spate. Croiala foarte strÃ¢nsa.",
+
 		"compozitie":"bumbac 98%; elastan 2%",
-		"instructiuni de întretinere":"Spalare la masina la 40°",
+		"instructiuni":"Spalare la masina la 40Â°",
 		"numar_articol":"0290691020"
-	}
-	]
+
 },
 {
+	"verificare":"B",
 	"ID":"Descriere111",
-	"JPG":"hmprod111.jpg",
+	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod111.jpg",
 	"nume":"Pantaloni de sport",
 	"pret":99.00,
-	"descriere":"Pantaloni de sport cu aspect u?or lucios, cu elastic ?i cu ?nur în talie, cu ?li? fals, cu buzunare laterale. Model conic pe picioare, cu bordura reiata la tiv. Fleece moale la interior.",
-	"Detalii":[
-	{
+	"descriere":"Pantaloni de sport cu aspect u?or lucios, cu elastic ?i cu ?nur Ã®n talie, cu ?li? fals, cu buzunare laterale. Model conic pe picioare, cu bordura reiata la tiv. Fleece moale la interior.",
+
 		"compozitie":"bumbac 65%; poliester 35%",
-		"instructiuni de întretinere":"Spalare la masina la 40°",
+		"instructiuni":"Spalare la masina la 40Â°",
 		"numar_articol":"0452301003"
-	}
-	]
+
 },
 {
+	"verificare":"B",
 	"ID":"Descriere112",
-	"JPG":"hmprod112.jpg",
+	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod112.jpg",
 	"nume":"Pantaloni de costum scur?i",
 	"pret":129.00,
-	"descriere":"Pantaloni de costum din twill moale din bumbac u?or flau?at, croiala u?or mai larga, cu buzunare laterale, cu un buzunar pentru monede, cu buzunare cu refile?i la spate. Model conic, cu dunga ?i u?or mai scurt pe picoare, cu bordura rasfrânta la tiv.",
-	"Detalii":[
-	{
+	"descriere":"Pantaloni de costum din twill moale din bumbac u?or flau?at, croiala u?or mai larga, cu buzunare laterale, cu un buzunar pentru monede, cu buzunare cu refile?i la spate. Model conic, cu dunga ?i u?or mai scurt pe picoare, cu bordura rasfrÃ¢nta la tiv.",
+
 		"compozitie":"bumbac 100%",
-		"instructiuni de întretinere":"Spalare la masina la 30°",
+		"instructiuni":"Spalare la masina la 30Â°",
 		"numar_articol":"0444254001"
-	}
-	]
+
 }
 ]
 
