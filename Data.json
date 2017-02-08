@@ -5,7 +5,8 @@
 {
 	"verificare":"F",
 	"ID":"Descriere01",
-	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod01.jpg",
+	"JPG":"hmprod01",
+	"URL":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod01.jpg",
 	"nume":"Bluza drapata",
 	"pret":79.90,
 	"descriere":"Bluza din jerseu moale din viscoza, cu guler înalt u?or drapat, cu deschizatura la spate, cu nasturi îmbraca?i în spatele gâtului.",
@@ -18,7 +19,8 @@
 {
 	"verificare":"F",
 	"ID":"Descriere02",
-	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod02.jpg",
+	"JPG":"hmprod02",
+	"URL":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod02.jpg",
 	"nume":"Pulover supradimensionat",
 	"pret":89.90,
 	"descriere":"Pulover supradimensionat, tricotat cu ochiuri marunte din fir moale, cu lâna în compozi?ie, cu umerii cazu?i, cu bordura reiata la rascroiala gâtului, la man?ete ?i la baza. U?or mai lung la spate.",
@@ -31,7 +33,8 @@
 {
 	"verificare":"F",
 	"ID":"Descriere03",
-	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod03.jpg",
+	"JPG":"hmprod03",
+	"URL":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod03.jpg",
 	"nume":"Pulover cu umerii goi",
 	"pret":49.90,
 	"descriere":"Pulover cu umerii goi, tricotat cu ochiuri marunte, din amestec de viscoza, în forma de T la spate, cu guler ridicat.",
@@ -44,7 +47,8 @@
 {
 	"verificare":"F",
 	"ID":"Descriere04",
-	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod04.jpg",
+	"JPG":"hmprod04",
+	"URL":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod04.jpg",
 	"nume":"Pulover cu motiv",
 	"pret":62.90,
 	"descriere":"Pulover tricotat din fir moale, cu bordura reiata la man?ete ?i la baza.",
@@ -57,7 +61,8 @@
 {
 	"verificare":"F",
 	"ID":"Descriere05",
-	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod05.jpg",
+	"JPG":"hmprod05",
+	"URL":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod05.jpg",
 	"nume":"Cizme calduroase",
 	"pret":129.00,
 	"descriere":"Cizme din imita?ie de piele întoarsa, cu captu?eala din blana artificiala, cu marginea de sus rasfrânta ?i cu închizatori cu benzi elastice ?i cu nasturi lungi într-o parte. Talpa din cauciuc.",
@@ -70,7 +75,8 @@
 {
 	"verificare":"F",
 	"ID":"Descriere06",
-	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod06.jpg",
+	"JPG":"hmprod06",
+	"URL":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod06.jpg",
 	"nume":"Botine",
 	"pret":199.00,
 	"descriere":"Botine cu deschizaturi pe laterale ?i cu doua barete decorative cu catarame din metal, cu gaica la spate, cu captu?eala din blana artificiala, cu bran?uri din imita?ie de piele ?i cu talpa groasa din cauciuc. Înal?imea tocului: 3,5 cm.",
@@ -83,7 +89,8 @@
 {
 	"verificare":"F",
 	"ID":"Descriere07",
-	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod07.jpg",
+	"JPG":"hmprod07",
+	"URL":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod07.jpg",
 	"nume":"Ghete de motociclist",
 	"pret":139.00,
 	"descriere":"Ghete de motociclist, din imita?ie de piele, cu barete reglabile cu catarame din metal. Captu?eala ?i bran?uri din material textil, talpa din cauciuc. Înal?imea tocului: aproximativ 3 cm.",
@@ -96,7 +103,8 @@
 {
 	"verificare":"F",
 	"ID":"Descriere08",
-	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod08.jpg",
+	"JPG":"hmprod08",
+	"URL":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod08.jpg",
 	"nume":"Cizme cu blana artificiala",
 	"pret":159.00,
 	"descriere":"Cizme din imita?ie de piele întoarsa, cu talpa ortopedica joasa, cu captu?eala moale din blana artificiala, cu bran?uri din imita?ie de piele ?i cu talpa din cauciuc. Platforma mica în fa?a: 2,5 cm. Înal?imea tocului: 4,5 cm.",
@@ -109,7 +117,8 @@
 {
 	"verificare":"F",
 	"ID":"Descriere09",
-	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod09.jpg",
+	"JPG":"hmprod09",
+	"URL":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod09.jpg",
 	"nume":"Super Skinny Low Jeans",
 	"pret":89.90,
 	"descriere":"Jeans cu cinci buzunare, din denim superelastic prespalat. Model cu talie joasa, foarte strâns pe picioare.",
@@ -122,7 +131,8 @@
 {
 	"verificare":"F",
 	"ID":"Descriere010",
-	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod010.jpg",
+	"JPG":"hmprod010",
+	"URL":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod010.jpg",
 	"nume":"Super Skinny Low Jeans",
 	"pret":89.90,
 	"descriere":"Jeans cu cinci buzunare, din denim superelastic prespalat. Model cu talie joasa, foarte strâns pe picioare.",
@@ -135,7 +145,8 @@
 {
 	"verificare":"F",
 	"ID":"Descriere011",
-	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod011.jpg",
+	"JPG":"hmprod011",
+	"URL":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod011.jpg",
 	"nume":"Jeans Super Skinny Low",
 	"pret":89.90,
 	"descriere":"Jeans cu talie joasa, cu cinci buzunare, din denim superelastic prespalat. Model foarte strâmt pe picioare. Confectionati partial din poliester reciclat.",
@@ -148,7 +159,8 @@
 {
 	"verificare":"F",
 	"ID":"Descriere012",
-	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod012.jpg",
+	"JPG":"hmprod012",
+	"URL":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod012.jpg",
 	"nume":"Pantaloni superelastici",
 	"pret":90.00,
 	"descriere":"Pantaloni cu cinci buzunare, din twill superelastic cu aspect de denim. Model cu talie normala, cu detalii cu aspect foarte uzat ?i strâmt pe picioare.",
@@ -175,7 +187,8 @@
 {
 	"verificare":"B",
 	"ID":"Descriere12",
-	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod12.jpg",
+	"JPG":"hmprod12",
+	"URL":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod12.jpg",
 	"nume":"Bluza din molton",
 	"pret":39.90,
 	"descriere":"Bluza din molton sub?ire din amestec de bumbac, cu mâneci lungi, cu bordura reiata la rascroiala gâtului, la man?ete ?i la baza. U?or flau?ata la interior.",
@@ -188,7 +201,8 @@
 {
 	"verificare":"B",
 	"ID":"Descriere13",
-	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod13.jpg",
+	"JPG":"hmprod13",
+	"URL":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod13.jpg",
 	"nume":"Hanorac",
 	"pret":129.00,
 	"descriere":"Hanorac din molton, cu gluga, cu mâneci lungi, cu buzunar tip marsupiu ?i cu bordura reiata la man?ete ?i la baza.",
@@ -200,7 +214,8 @@
 },{
 	"verificare":"B",
 	"ID":"Descriere14",
-	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod14.jpg",
+	"JPG":"hmprod14",
+	"URL":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod14.jpg",
 	"nume":"Bluza din molton tip neopren",
 	"pret":99.00,
 	"descriere":"Bluza din material tip neopren, cu mâneci raglan lungi ?i bordura reiata la man?ete ?i la baza. U?or flau?ata la interior.",
@@ -212,7 +227,8 @@
 },{
 	"verificare":"B",
 	"ID":"Descriere15",
-	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod15.jpg",
+	"JPG":"hmprod15",
+	"URL":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod15.jpg",
 	"nume":"Pantofi sport",
 	"pret":139.00,
 	"descriere":"Pantofi sport din imita?ie de piele, cu sec?iuni matlasate decorative pe laterale ?i pe limba, cu marginea u?or vatuita ?i cu ?ireturi în fa?a. Captu?eala ?i bran?uri din plasa ?i talpa din cauciuc.",
@@ -225,7 +241,8 @@
 {
 	"verificare":"B",
 	"ID":"Descriere16",
-	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod16.jpg",
+	"JPG":"hmprod16",
+	"URL":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod16.jpg",
 	"nume":"Pantofi sport",
 	"pret":99.00,
 	"descriere":"Pantofi sport din imita?ie de piele, cu ?ireturi în fa?a, cu gaica la spate, cu captu?eala ?i bran?uri din pânza de bumbac ?i cu talpa din cauciuc.",
@@ -238,7 +255,8 @@
 {
 	"verificare":"B",
 	"ID":"Descriere17",
-	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod17.jpg",
+	"JPG":"hmprod17",
+	"URL":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod17.jpg",
 	"nume":"Pantofi sport înal?i",
 	"pret":159.00,
 	"descriere":"Pantofi sport înal?i, din imita?ie de piele cu sec?iuni matlasate, cu marginea ?i limba u?or vatuite, cu ?ireturi în fa?a, cu captu?eala ?i bran?uri din plasa ?i cu talpa din cauciuc.",
@@ -251,7 +269,8 @@
 {
 	"verificare":"B",
 	"ID":"Descriere18",
-	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod18.jpg",
+	"JPG":"hmprod18",
+	"URL":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod18.jpg",
 	"nume":"Pantofi sport",
 	"pret":159.00,
 	"descriere":"Pantofi sport cu carâmb pâna la glezna ?i cu marginea vatuita, cu ?ireturi în fa?a, cu captu?eala ?i bran?uri din plasa ?i cu talpa din cauciuc.",
@@ -264,7 +283,8 @@
 {
 	"verificare":"B",
 	"ID":"Descriere19",
-	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod19.jpg",
+	"JPG":"hmprod19",
+	"URL":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod19.jpg",
 	"nume":"Pantaloni din twill Skinny fit",
 	"pret":89.90,
 	"descriere":"Pantaloni cu cinci buzunare, din twill u?or elastic, prespalat, cu talie normala, cu ?li? cu fermoar. Model cu croiala foarte strânsa.",
@@ -277,7 +297,8 @@
 {
 	"verificare":"B",
 	"ID":"Descriere110",
-	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod110.jpg",
+	"JPG":"hmprod110",
+	"URL":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod110.jpg",
 	"nume":"Pantaloni chino Skinny fit",
 	"pret":99.00,
 	"descriere":"Pantaloni chino din twill prespalat din bumbac, cu talie normala, cu buzunare laterale, cu un buzunar pentru monede si cu buzunare cu refileti si nasture la spate. Croiala foarte strânsa.",
@@ -290,7 +311,8 @@
 {
 	"verificare":"B",
 	"ID":"Descriere111",
-	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod111.jpg",
+	"JPG":"hmprod111",
+	"URL":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod111.jpg",
 	"nume":"Pantaloni de sport",
 	"pret":99.00,
 	"descriere":"Pantaloni de sport cu aspect u?or lucios, cu elastic ?i cu ?nur în talie, cu ?li? fals, cu buzunare laterale. Model conic pe picioare, cu bordura reiata la tiv. Fleece moale la interior.",
@@ -303,7 +325,8 @@
 {
 	"verificare":"B",
 	"ID":"Descriere112",
-	"JPG":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod112.jpg",
+	"JPG":"hmprod112",
+	"URL":"https://raw.githubusercontent.com/GalDarius/test/master/hmprod112.jpg",
 	"nume":"Pantaloni de costum scur?i",
 	"pret":129.00,
 	"descriere":"Pantaloni de costum din twill moale din bumbac u?or flau?at, croiala u?or mai larga, cu buzunare laterale, cu un buzunar pentru monede, cu buzunare cu refile?i la spate. Model conic, cu dunga ?i u?or mai scurt pe picoare, cu bordura rasfrânta la tiv.",
